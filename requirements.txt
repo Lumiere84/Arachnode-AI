@@ -1,0 +1,4 @@
+# Flask is the only third-party dependency. Storage (sqlite3) and the
+# test suite (unittest) are both Python standard library, so a bare
+# `pip install -r requirements.txt` is all setup this project needs.
+Flask>=3.0
